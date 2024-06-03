@@ -68,6 +68,16 @@ patch:
   app_options:
     com.termius-dmg.mac: # Terminal - Mac
       ascii_mode: true
+    com.googlecode.iterm2:
+      ascii_mode: true
+    com.apple.dt.Xcode:
+      ascii_mode: true
+    com.sublimetext.4:
+      ascii_mode: true
+    com.barebones.bbedit:
+      ascii_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: true
 #    com.google.Chrome: # Chrome
 #      ascii_mode: true
 #    com.coderforart.MWeb3: # MWeb
