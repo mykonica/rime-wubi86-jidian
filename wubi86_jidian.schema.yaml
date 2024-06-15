@@ -54,7 +54,7 @@ engine:
     - history_translator@repeat_last_input # 重复上一次输入，对应下面的 repeat_last_input
   filters:
     - simplifier@tradition
-#    - lua_filter@*wubi86_jidian_single_char_first_filter # 单字优先
+    - lua_filter@*wubi86_jidian_single_char_first_filter # 单字优先
 #    - lua_filter@*wubi86_jidian_single_char_only # 纯单字
 
 
